@@ -1,18 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 14 22:14:37 2024
 
-@author: P.JOHN
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 14 19:54:09 2024
-
-@author: P.JOHN
-"""
-
-class pj_showroom:
+class nani_showroom:
     cgst=10/100
     sgst = 15/100
     inc = 10/100  
@@ -172,7 +161,7 @@ class pj_showroom:
         
         
         
-sir = pj_showroom()
+sir = nani_showroom()
 
 sir.user_check()
 
