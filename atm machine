@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
 
-@author: CHAKRAVARTHI
-"""
 
 """create an atm system:
     display remaing amount in the atm +
